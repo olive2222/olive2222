@@ -1,5 +1,5 @@
 <p align="center">
-<h2 height="200px" align="center">Sunny <img src="https://cdn.jsdelivr.net/gh/MaleWeb/picture/images/techblog/hi.gif" width="25"></h2>
+<h2 height="200px" align="center">Olive <img src="https://cdn.jsdelivr.net/gh/MaleWeb/picture/images/techblog/hi.gif" width="25"></h2>
 <h2 align="center">A passionate frontend developer from China</h3>
 </p>
 
@@ -30,20 +30,6 @@
 <br />
 
 <img align="right" alt="GIF" src="https://github.com/devSouvik/devSouvik/blob/master/gif4.gif?raw=true" width="300"/>
-
-# <a href="https://jzq422bol5.feishu.cn/docx/doxcnyogD4POabvLHoa1yoEH9W0">个人说明书</a>
-
-- 🧱 搬砖记录：**滴滴出行，字节跳动，百度**
-- 🔥 <a href="https://github.com/doocs">@doocs</a> member
-- 🚀 前端历险记：https://sunny-117.github.io/blog/
-- 🚀 迷你前端源码库: https://sunny-117.github.io/mini-anything-docs/
-- ⚡️ 自动化专业, 嵌入式单片机设计，电子设计竞赛选手
-- 🔧 <a href="https://www.nowcoder.com/users/363848192">笔经面经</a>
-- 📦️ 纯基础知识沉淀 https://sunny-117.github.io/
-- 💥 视频(会更新 <a href="https://github.com/Sunny-117/js-challenges">js-challenges</a> 题目讲解视频)：<a href="https://space.bilibili.com/447694807" target="_blank">B 站 CodeAc</a>，有条件的可以蹲一下
-- 🎉 你若盛开，清风自来；相约而至，风雨无阻，漫漫岁月，赤子之心
-- 🎉 天下大势，成久必败，败久必成，无论成与败，努力就好，一切随缘
-- 💬 微信：**17560850561**，欢迎交流
 
 # 开源
 
